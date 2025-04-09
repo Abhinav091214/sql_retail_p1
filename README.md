@@ -6,7 +6,6 @@ This is a basic SQL project to analyze retail sales data. It answers questions a
 
 ### 🔧 Tools Used
 - MySQL for queries
-- Python (Pandas & Seaborn) for data wrangling and visualization
 
 ### 📁 Key Features
 - Grouping & aggregating sales data
@@ -15,4 +14,4 @@ This is a basic SQL project to analyze retail sales data. It answers questions a
 
 ---
 
-Feel free to explore the SQL queries and Python scripts in this project!
+Feel free to explore the SQL queries in this project!
